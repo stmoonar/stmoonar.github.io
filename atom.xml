@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
+    <title type="text">stmoonar&#39;s blog</title>
+    <subtitle type="html">MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</subtitle>
+    <updated>2024-08-30T14:53:42&#43;08:00</updated>
+    <id>http://localhost:1313/</id>
+    <link rel="alternate" type="text/html" href="http://localhost:1313/" />
+    <link rel="self" type="application/atom&#43;xml" href="http://localhost:1313/atom.xml" />
+    <author>
+            <name>stmoonar</name>
+            <uri>http://localhost:1313/</uri>
+            
+                <email>xx0294432@gmail.com</email>
+            </author>
+    <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
+    <generator uri="https://gohugo.io/" version="0.131.0">Hugo</generator>
+        <entry>
+            <title type="text">测试</title>
+            <link rel="alternate" type="text/html" href="http://localhost:1313/post/2024/%E6%B5%8B%E8%AF%95/" />
+            <id>http://localhost:1313/post/2024/%E6%B5%8B%E8%AF%95/</id>
+            <updated>2024-08-23T15:13:58&#43;08:00</updated>
+            <published>2024-08-04T00:20:17&#43;08:00</published>
+            <author>
+                    <name>stmoonar</name>
+                    <uri>https://stmoonar.github.io/</uri>
+                    <email>xx0294432@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">一级标题 你好，我是谢先衍，来自hnu,现在在上海极氪实习。bbb 二级标题 hello world. This is so cool! 对比 hugo hexo 使用语言 go js 响应速度 快 慢 编译速度 hexo是什么 enp130s0f0np0: flags=4163&amp;lt;UP,BROADCAST,RUNNING,MULTICAST&amp;gt; mtu 1500 inet 192.10.10.109 netmask 255.255.255.0 broadcast 192.10.10.255 inet6 fe80::bace:f6ff:fefe:63a0 prefixlen 64 scopeid 0x20 ether b8:ce:f6:fe:63:a0 txqueuelen……</summary>
+            
+                <content type="html">&lt;h1 id=&#34;一级标题&#34;&gt;一级标题&lt;/h1&gt;
+&lt;p&gt;你好，我是&lt;strong&gt;谢先衍&lt;/strong&gt;，来自&lt;em&gt;hnu&lt;/em&gt;,现在在上海极氪实习。&lt;em&gt;bbb&lt;/em&gt;&lt;/p&gt;
+&lt;img src=&#34;https://pics.stmoonar.me/mypics/typora/2024/08/04/202408040031084.jpg&#34; alt=&#34;104862001_p1&#34; style=&#34;zoom:50%;&#34; /&gt;
+&lt;h2 id=&#34;二级标题&#34;&gt;二级标题&lt;/h2&gt;
+&lt;p&gt;hello world. This is so cool!&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;对比&lt;/th&gt;
+&lt;th&gt;hugo&lt;/th&gt;
+&lt;th&gt;hexo&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;使用语言&lt;/td&gt;
+&lt;td&gt;go&lt;/td&gt;
+&lt;td&gt;js&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;响应速度&lt;/td&gt;
+&lt;td&gt;快&lt;/td&gt;
+&lt;td&gt;慢&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;编译速度&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;hexo是什么&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;enp130s0f0np0: flags=4163&amp;lt;UP,BROADCAST,RUNNING,MULTICAST&amp;gt;  mtu 1500
+inet 192.10.10.109  netmask 255.255.255.0  broadcast 192.10.10.255
+inet6 fe80::bace:f6ff:fefe:63a0  prefixlen 64  scopeid 0x20&lt;link&gt;
+ether b8:ce:f6:fe:63:a0  txqueuelen 1000  (Ethernet)
+RX packets 1562313  bytes 131656565 (131.6 MB)
+RX errors 359073356  dropped 0  overruns 0  frame 359073356
+TX packets 16282529  bytes 23251786527 (23.2 GB)
+TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0&lt;/p&gt;
+&lt;p&gt;enp130s0f1np1: flags=4163&amp;lt;UP,BROADCAST,RUNNING,MULTICAST&amp;gt;  mtu 1500
+ether b8:ce:f6:fe:63:a1  txqueuelen 1000  (Ethernet)
+RX packets 56507  bytes 15305497 (15.3 MB)
+RX errors 0  dropped 0  overruns 0  frame 0
+TX packets 202361  bytes 34897114 (34.8 MB)
+TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h4 id=&#34;2-隐藏内存分配延迟&#34;&gt;2. 隐藏内存分配延迟&lt;/h4&gt;
+&lt;p&gt;The serving framework invokes the &lt;code&gt;step&lt;/code&gt; API in every iteration. The latency of &lt;code&gt;step&lt;/code&gt; depends on &lt;strong&gt;how many new pages&lt;/strong&gt; need to be mapped in the virtual tensors of KV-cache.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;将计算与内存分配交错：内存需求是可预测的&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;你好&lt;/li&gt;
+&lt;li&gt;二级列表&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;延迟回收，直接将R1的reqId分配给新来的R2 &lt;strong&gt;(此处若R2的&lt;em&gt;context&lt;/em&gt;小于R1，且在prefill阶段基本上是必然小于的，会不会造成浪费？or这种浪费与重新分配空间的时间相比是否可以忽略？)&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;在物理页面需要前就主动分配：最后，只有当vAttention中缓存的物理内存页数低于某个阈值（例如，小于GPU内存的10%）时，我们才会触发内存回收。&lt;strong&gt;(上面的问题解决了)&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;有序列表&#34;&gt;有序列表&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;测试一&lt;/li&gt;
+&lt;li&gt;测试2&lt;/li&gt;
+&lt;li&gt;测试3&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;from&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;transformers&lt;/span&gt; &lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;AutoModel&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;tokenizer&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;AutoTokenizer&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;from_pretrained&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;tf_save_directory&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;pt_model&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;AutoModelForSequenceClassification&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;from_pretrained&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;tf_save_directory&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;from_tf&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;kc&#34;&gt;True&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h3 id=&#34;三级标题&#34;&gt;三级标题&lt;/h3&gt;
+&lt;p&gt;线性代数中最有用的一些运算符是&lt;em&gt;范数&lt;/em&gt;（norm）。 非正式地说，向量的&lt;em&gt;范数&lt;/em&gt;是表示一个&lt;strong&gt;向量有多大&lt;/strong&gt;。 这里考虑的&lt;em&gt;大小&lt;/em&gt;（size）概念不涉及维度，而是&lt;strong&gt;分量的大小&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;在线性代数中，向量范数是将向量映射到标量的函数$f$。性质：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;如果我们按常数因子α缩放向量的所有元素， 其范数也会按相同常数因子的&lt;em&gt;绝对值&lt;/em&gt;缩放：$f(\alpha x) = |\alpha|f(x)$&lt;/li&gt;
+&lt;li&gt;三角不等式：$f(x+y) \le f(x) + f(y)$&lt;/li&gt;
+&lt;li&gt;非负的（只有向量全为0时范数才为0）&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;范数听起来很像距离的度量。 欧几里得距离和毕达哥拉斯定理中的非负性概念和三角不等式可能会给出一些启发。 事实上，欧几里得距离是一个L2范数： 假设n维向量x中的元素是x1,…,xn，其L2&lt;em&gt;范数&lt;/em&gt;是向量元素平方和的平方根&lt;/p&gt;
+&lt;div&gt;
+$$
+\displaystyle{\|\mathrm{x}\|_2 = \sqrt{\sum\limits_{i=0}^n|x_i|^2}}
+$$
+&lt;/div&gt;
+&lt;p&gt;深度学习中更经常地使用&lt;strong&gt;L2范数的平方&lt;/strong&gt;，也会经常遇到L1范数，它表示为向量元素的绝对值之和：&lt;/p&gt;
+&lt;div&gt;
+$$
+\displaystyle{\|\mathrm{x}\|_1 = \sum\limits_{i=1}^n|x_i|}
+$$
+&lt;/div&gt;
+&lt;p&gt;与L2范数相比，L1范数受异常值的影响较小。&lt;/p&gt;
+&lt;p&gt;L2范数计算：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;x&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;torch&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;tensor&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;([&lt;/span&gt;&lt;span class=&#34;mf&#34;&gt;3.0&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt; &lt;span class=&#34;mf&#34;&gt;4.0&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;])&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;torch&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;norm&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;x&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;L1范数计算：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;torch&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;abs&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;x&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;sum&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;()&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;L2范数和L1范数都是更一般的$L_p$范数的特例：&lt;/p&gt;
+&lt;div&gt;
+$$
+\displaystyle{\|\mathrm{x}\|_p = \bigg( \sum\limits_{i=1}^n|x_i|^p \bigg)^{1/p}}
+$$
+&lt;/div&gt;
+&lt;p&gt;矩阵X的&lt;em&gt;Frobenius norm&lt;/em&gt;是矩阵元素平方和的平方根：&lt;/p&gt;
+&lt;div&gt;
+$$
+\displaystyle{\|\mathrm{X}\|_F = \sqrt{\sum\limits_{i=1}^m\sum\limits_{j=1}^nx_{ij}^2}}
+$$
+&lt;/div&gt;
+&lt;p&gt;也是调用&lt;code&gt;torch.norm()&lt;/code&gt;计算。&lt;/p&gt;
+&lt;p&gt;在深度学习中，我们经常试图解决优化问题： &lt;em&gt;最大化&lt;/em&gt;分配给观测数据的概率; &lt;em&gt;最小化&lt;/em&gt;预测和真实观测之间的距离。 用向量表示物品（如单词、产品或新闻文章），以便最小化相似项目之间的距离，最大化不同项目之间的距离。 &lt;strong&gt;目标&lt;/strong&gt;，或许是深度学习算法最重要的组成部分（除了数据），&lt;strong&gt;通常被表达为范数&lt;/strong&gt;。&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                
+            
+        </entry>
+    
+</feed>
