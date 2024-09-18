@@ -8,7 +8,7 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>stmoonar&#39;s blog</title>
-        <link>http://localhost:1313/</link>
+        <link>https://stmoonar.github.io/</link>
         <description>MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</description>
         <generator>Hugo 0.131.0 https://gohugo.io/</generator>
         
@@ -23,15 +23,15 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Tue, 10 Sep 2024 15:52:00 &#43;0800</lastBuildDate>
+        <lastBuildDate>Wed, 18 Sep 2024 21:22:02 &#43;0800</lastBuildDate>
         
-            <atom:link rel="self" type="application/rss&#43;xml" href="http://localhost:1313/rss.xml" />
+            <atom:link rel="self" type="application/rss&#43;xml" href="https://stmoonar.github.io/rss.xml" />
         
         
             <item>
                 <title>测试</title>
-                <link>http://localhost:1313/post/2024/%E6%B5%8B%E8%AF%95/</link>
-                <guid isPermaLink="true">http://localhost:1313/post/2024/%E6%B5%8B%E8%AF%95/</guid>
+                <link>https://stmoonar.github.io/post/2024/%E6%B5%8B%E8%AF%95/</link>
+                <guid isPermaLink="true">https://stmoonar.github.io/post/2024/%E6%B5%8B%E8%AF%95/</guid>
                 <pubDate>Sun, 04 Aug 2024 00:20:17 &#43;0800</pubDate>
                 
                     <author>xx0294432@gmail.com (stmoonar)</author>

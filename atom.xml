@@ -4,13 +4,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">stmoonar&#39;s blog</title>
     <subtitle type="html">MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</subtitle>
-    <updated>2024-09-10T15:52:00&#43;08:00</updated>
-    <id>http://localhost:1313/</id>
-    <link rel="alternate" type="text/html" href="http://localhost:1313/" />
-    <link rel="self" type="application/atom&#43;xml" href="http://localhost:1313/atom.xml" />
+    <updated>2024-09-18T21:22:02&#43;08:00</updated>
+    <id>https://stmoonar.github.io/</id>
+    <link rel="alternate" type="text/html" href="https://stmoonar.github.io/" />
+    <link rel="self" type="application/atom&#43;xml" href="https://stmoonar.github.io/atom.xml" />
     <author>
             <name>stmoonar</name>
-            <uri>http://localhost:1313/</uri>
+            <uri>https://stmoonar.github.io/</uri>
             
                 <email>xx0294432@gmail.com</email>
             </author>
@@ -18,9 +18,9 @@
     <generator uri="https://gohugo.io/" version="0.131.0">Hugo</generator>
         <entry>
             <title type="text">测试</title>
-            <link rel="alternate" type="text/html" href="http://localhost:1313/post/2024/%E6%B5%8B%E8%AF%95/" />
-            <id>http://localhost:1313/post/2024/%E6%B5%8B%E8%AF%95/</id>
-            <updated>2024-09-10T15:51:55&#43;08:00</updated>
+            <link rel="alternate" type="text/html" href="https://stmoonar.github.io/post/2024/%E6%B5%8B%E8%AF%95/" />
+            <id>https://stmoonar.github.io/post/2024/%E6%B5%8B%E8%AF%95/</id>
+            <updated>2024-09-18T21:19:33&#43;08:00</updated>
             <published>2024-08-04T00:20:17&#43;08:00</published>
             <author>
                     <name>stmoonar</name>
