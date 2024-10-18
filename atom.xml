@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">stmoonar&#39;s blog</title>
     <subtitle type="html">MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</subtitle>
-    <updated>2024-10-18T01:28:21&#43;08:00</updated>
+    <updated>2024-10-18T10:53:55&#43;08:00</updated>
     <id>https://stmoonar.github.io/</id>
     <link rel="alternate" type="text/html" href="https://stmoonar.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://stmoonar.github.io/atom.xml" />
@@ -286,7 +286,7 @@
             <title type="text">测试</title>
             <link rel="alternate" type="text/html" href="https://stmoonar.github.io/post/2024/test/" />
             <id>https://stmoonar.github.io/post/2024/test/</id>
-            <updated>2024-10-18T00:58:08&#43;08:00</updated>
+            <updated>2024-10-18T10:53:43&#43;08:00</updated>
             <published>2024-08-04T00:20:17&#43;08:00</published>
             <author>
                     <name>stmoonar</name>
@@ -437,7 +437,7 @@ $$
 &lt;/div&gt;
 &lt;p&gt;也是调用&lt;code&gt;torch.norm()&lt;/code&gt;计算。&lt;/p&gt;
 &lt;p&gt;在深度学习中，我们经常试图解决优化问题： &lt;em&gt;最大化&lt;/em&gt;分配给观测数据的概率; &lt;em&gt;最小化&lt;/em&gt;预测和真实观测之间的距离。 用向量表示物品（如单词、产品或新闻文章），以便最小化相似项目之间的距离，最大化不同项目之间的距离。 &lt;strong&gt;目标&lt;/strong&gt;，或许是深度学习算法最重要的组成部分（除了数据），&lt;strong&gt;通常被表达为范数&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://pics.stmoonar.me/mypics/typora/2024/10/18/202410180050248.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://pics.stmoonar.me/mypics/typora/2024/10/12/202410121354497.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 </content>
             
             
