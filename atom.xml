@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">stmoonar&#39;s blog</title>
     <subtitle type="html">MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</subtitle>
-    <updated>2024-10-24T00:03:45&#43;08:00</updated>
+    <updated>2024-12-05T13:44:22&#43;08:00</updated>
     <id>https://stmoonar.github.io/</id>
     <link rel="alternate" type="text/html" href="https://stmoonar.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://stmoonar.github.io/atom.xml" />
@@ -286,20 +286,21 @@
             <title type="text">测试</title>
             <link rel="alternate" type="text/html" href="https://stmoonar.github.io/post/2024/test/" />
             <id>https://stmoonar.github.io/post/2024/test/</id>
-            <updated>2024-10-18T10:53:43&#43;08:00</updated>
+            <updated>2024-12-05T13:42:33&#43;08:00</updated>
             <published>2024-08-04T00:20:17&#43;08:00</published>
             <author>
                     <name>stmoonar</name>
                     <uri>https://stmoonar.github.io/</uri>
                     <email>xx0294432@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">一级标题 你好，我是XXY，现在在上海极氪实习。bbb Aa Bb Cc Dd Ee Ff Gg Hh Ii Jj Kk Ll Mm Nn Oo Pp Qq Rr Ss Tt Uu Vv Ww Xx Yy Zz Aa Bb Cc Dd Ee Ff Gg Hh Ii Jj Kk Ll Mm Nn Oo Pp Qq Rr Ss Tt Uu Vv Ww Xx Yy Zz 二级标题 hello world. This is so cool!……</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">一级标题 你好，我是XXY，现在在上海极氪实习。bbb hhh Aa Bb Cc Dd Ee Ff Gg Hh Ii Jj Kk Ll Mm Nn Oo Pp Qq Rr Ss Tt Uu Vv Ww Xx Yy Zz Aa Bb Cc Dd Ee Ff Gg Hh Ii Jj Kk Ll Mm Nn Oo Pp Qq Rr Ss Tt Uu Vv Ww Xx Yy Zz 二级标题 hello world. This is so……</summary>
             
                 <content type="html">&lt;h1 id=&#34;一级标题&#34;&gt;一级标题&lt;/h1&gt;
-&lt;p&gt;你好，我是&lt;strong&gt;XXY&lt;/strong&gt;，现在在上海&lt;mark&gt;极氪&lt;/mark&gt;实习。&lt;em&gt;bbb&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;你好，我是&lt;strong&gt;XXY&lt;/strong&gt;，现在在上海&lt;mark&gt;极氪&lt;/mark&gt;实习。&lt;em&gt;bbb hhh&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Aa Bb Cc Dd Ee Ff Gg Hh Ii Jj Kk Ll Mm Nn Oo Pp Qq Rr Ss Tt Uu Vv Ww Xx Yy Zz&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Aa Bb Cc Dd Ee Ff Gg Hh Ii Jj Kk Ll Mm Nn Oo Pp Qq Rr Ss Tt Uu Vv Ww Xx Yy Zz&lt;/em&gt;&lt;/p&gt;
-&lt;img src=&#34;https://pics.stmoonar.me/mypics/typora/2024/08/04/202408040031084.jpg&#34; alt=&#34;104862001_p1&#34; style=&#34;zoom:50%;&#34; /&gt;
+&lt;!-- &lt;img src=&#34;https://pics.stmoonar.me/mypics/typora/2024/08/04/202408040031084.jpg&#34; alt=&#34;104862001_p1&#34; style=&#34;zoom:50%;&#34; /&gt; --&gt;
+&lt;p&gt;&lt;img src=&#34;https://pics.stmoonar.me/mypics/typora/2024/08/04/202408040031084.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;二级标题&#34;&gt;二级标题&lt;/h2&gt;
 &lt;p&gt;hello world. This is so cool!&lt;/p&gt;
 &lt;table&gt;
